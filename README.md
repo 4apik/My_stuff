@@ -1,2 +1,1 @@
-# beginner's stuff
-just posting beginner's projects here
+just posting my versions of beginner's projects here
