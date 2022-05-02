@@ -57,7 +57,6 @@ def guess():
         else:
             time.sleep(2)
             print("I'll take it as 'yes'")
-        
 
 
 def computer_guess():
