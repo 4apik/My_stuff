@@ -1,4 +1,4 @@
 
-Adam's Apples is the exercise I wrote my first neural network for. And it works! ^._.^
+Adam's Apples is the exercise from Delta Academy I wrote my first neural network for. And it works! ^._.^
 
 
